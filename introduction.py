@@ -16,3 +16,4 @@
 # git config --global user.email "dxm@dlmu.edu.cn"
 # git config --global user.name "Dongxu150"
 # git push -u origin master 发送更改
+# 查看远端仓库名字 git remote
